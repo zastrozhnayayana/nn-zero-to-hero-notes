@@ -27,8 +27,6 @@
 
 ## Repository structure
 
-## Repository structure
-
 ```text
 01_micrograd.ipynb
 02_makemore_bigrams.ipynb
