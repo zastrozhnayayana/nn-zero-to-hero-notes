@@ -17,7 +17,7 @@
 - [x] Lecture 3 — Building makemore Part 2: MLP
 - [x] Lecture 4 — Building makemore Part 3: Activations & Gradients, BatchNorm
 - [x] Lecture 5 — Building makemore Part 4: Becoming a Backprop Ninja
-- [ ] Lecture 6 — Building makemore Part 5: Building a WaveNet
+- [x] Lecture 6 — Building makemore Part 5: Building a WaveNet
 - [ ] Lecture 7 — Let’s build GPT: from scratch, in code, spelled out
 - [ ] Lecture 8 — Let’s build the GPT Tokenizer
 - [ ] Lecture 9 — Let’s reproduce GPT-2
